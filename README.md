@@ -15,7 +15,7 @@ Problem:
 following this sample https://cloudinary.com/guides/image-effects/building-a-python-image-recognition-system
 Building a Python Image Recognition System
 
-using TensorFlow load the ResNet50 model and OpenCV (cv2) to read and process images from a directory.
+using TensorFlow load the ResNet50 model for classification and OpenCV (cv2) to read and process images from a directory and  for color detection.
 
 
 Problem:
@@ -24,8 +24,9 @@ Problem:
 
 ## Version 3
 
-Following this sample https://www.kaggle.com/code/meemr5/traffic-light-detection-pytorch-starter#5.-Validation-Scheme
-🚦 Traffic Light Detection | Pytorch Starter
+Following this sample [https://www.kaggle.com/code/meemr5/traffic-light-detection-pytorch-starter#5.-Validation-Scheme](https://www.kaggle.com/code/photunix/classify-traffic-lights-with-pre-trained-cnn-model?utm_source=chatgpt.com)
+Classify traffic lights with pre-trained CNN model
+
 
 Problem solve.
 1. Able to find the traffic light correctly, even if the image has multiple traffic in it
