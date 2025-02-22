@@ -15,6 +15,9 @@ Problem:
 following this sample https://cloudinary.com/guides/image-effects/building-a-python-image-recognition-system
 Building a Python Image Recognition System
 
+using TensorFlow load the ResNet50 model and OpenCV (cv2) to read and process images from a directory.
+
+
 Problem:
 1. This training model is trained to recognize football images. The result is not accurate.
 
