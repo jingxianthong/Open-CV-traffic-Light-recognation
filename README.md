@@ -17,3 +17,10 @@ Building a Python Image Recognition System
 problem:
 1. This train model is train to recognation football image. The result is not accurate.
 2. no idea how it recognation image 
+
+## Version 3
+
+follolwing this sample https://www.kaggle.com/code/meemr5/traffic-light-detection-pytorch-starter#5.-Validation-Scheme
+🚦 Traffic Light Detection | Pytorch Starter
+
+
