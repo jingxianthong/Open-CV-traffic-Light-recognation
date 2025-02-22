@@ -4,6 +4,7 @@
 
 Testing one single image to recognize traffic light
 
+folder name: 
 Problem: 
 1. when there is no traffic light  it will find the most color inside the image
 2. if there are many traffic lights inside the image, focus on the left side of the traffic light as the final result
