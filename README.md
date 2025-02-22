@@ -3,6 +3,7 @@
 ## version 1 
 
 Testing one single image to recognize traffic light
+Using OpenCV (cv2) for detecting traffic light colors
 
 folder name: 
 Problem: 
